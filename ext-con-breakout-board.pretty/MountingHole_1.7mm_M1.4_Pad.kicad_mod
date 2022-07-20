@@ -16,7 +16,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fb60c7d4-ee60-4bb5-be85-fdb4e042df6a)
   )
-  (fp_circle (center 0 0) (end 1.4 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 1addcbf4-2334-462f-b831-d0d48f10b778))
+  (fp_circle (center 0 0) (end 1.4 0) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp 1addcbf4-2334-462f-b831-d0d48f10b778))
   (fp_circle (center 0 0) (end 1.6 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2958a401-91d7-4f1a-af50-a4166bb26c52))
   (pad "1" thru_hole circle (at 0 0) (size 2.8 2.8) (drill 1.7) (layers *.Cu *.Mask)
     (zone_connect 2) (tstamp b3d21159-18b1-466e-a141-f0f75094e16e))
