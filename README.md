@@ -4,7 +4,7 @@ The rigid section has an overall thickness of 1.2mm, the flex section has an ove
 
 The first panels were made by PCBWay, if you would like to order these yourself then you can use their product number W159429AS1C19 to reorder the same panel.
 
-The OK-06M024-04 header can be acquired here (cannot guarantee this URL will remain valid): https://www.yoycart.com/Product/528429082566/OK-06M024-04_OK-06M030-04_OK-06M050-04_O
+The OK-06M024-04 connector can be acquired here (cannot guarantee this URL will remain valid): https://www.yoycart.com/Product/528429082566/OK-06M024-04_OK-06M030-04_OK-06M050-04_O
 
 Here is a photo of a panel:
 ![Panel](./photos/panel.png)
