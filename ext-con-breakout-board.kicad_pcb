@@ -640,7 +640,7 @@
   (gr_text "GPIO" (at 98.08 116.25 45) (layer "F.SilkS") (tstamp 0427419d-9929-4e7f-b2e1-d40d2477221f)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "3V3" (at 107.84 115.75) (layer "F.SilkS") (tstamp 10017eb0-a732-4d59-80ff-5cf2793a814d)
+  (gr_text "3V3" (at 104.9 115.75) (layer "F.SilkS") (tstamp 10017eb0-a732-4d59-80ff-5cf2793a814d)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "SDA" (at 93 116.25 45) (layer "F.SilkS") (tstamp 2818ce06-99e6-44f0-ba46-af583423909b)
@@ -679,7 +679,7 @@
   (gr_text "GND" (at 131.1 116.25 45) (layer "F.SilkS") (tstamp c27a68d5-a731-494f-9b49-70a5163bee9e)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "1V8" (at 104.9 115.75) (layer "F.SilkS") (tstamp cca3c0c5-ef89-4aab-b41a-e3d4a87ca74a)
+  (gr_text "1V8" (at 107.84 115.75) (layer "F.SilkS") (tstamp cca3c0c5-ef89-4aab-b41a-e3d4a87ca74a)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "GND" (at 111.15 116.15 90) (layer "F.SilkS") (tstamp d7510ffb-eef4-4873-8221-7839e4199893)
@@ -713,7 +713,7 @@
     (pts (xy 134.75 121.6) (xy 131.242572 114.6))
     (height 3.25)
     (orientation 1)
-    (gr_text "7.0000 mm" (at 140 118.1 90) (layer "Cmts.User") (tstamp fd10c83f-e143-499c-8031-b4b634332f80)
+    (gr_text "7.0000 mm" (at 140 118.1 90) (layer "Cmts.User") (tstamp 69027957-5748-4f29-a730-608e086de9cc)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -733,7 +733,7 @@
     (pts (xy 122.95 85.65) (xy 132.2 86))
     (height -1.65)
     (orientation 0)
-    (gr_text "9.2500 mm" (at 127.575 82.2) (layer "Cmts.User") (tstamp 8838b9ab-9397-4813-a630-cb6197291b9e)
+    (gr_text "9.2500 mm" (at 127.575 82.2) (layer "Cmts.User") (tstamp 9d1d1dfd-5b8c-4533-af29-7ef3247417b4)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -9606,7 +9606,7 @@
   (zone (net 0) (net_name "") (layer "In1.Cu") (tstamp 57491043-0692-4120-8ca3-56e5d8641b8c) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -12475,7 +12475,7 @@
   (zone (net 0) (net_name "") (layer "In1.Cu") (tstamp b18626a8-275d-4ef8-a0f1-df91f934de9a) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
