@@ -3,19 +3,19 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.6-1.fc36"
+      "Version": "6.0.10-1.fc37"
     },
-    "CreationDate": "2022-07-25T13:06:59-04:00"
+    "CreationDate": "2023-01-04T19:13:10-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ext-con-breakout-board",
       "GUID": "6578742d-636f-46e2-9d62-7265616b6f75",
-      "Revision": "v0.5"
+      "Revision": "v0.6"
     },
     "Size": {
       "X": 46.1,
-      "Y": 36.7
+      "Y": 33.2
     },
     "LayerNumber": 4,
     "BoardThickness": 1.601,

@@ -6,8 +6,8 @@
 
   (title_block
     (title "EXT CON Breakout Board")
-    (date "2022-07-13")
-    (rev "0.5")
+    (date "2023-01-04")
+    (rev "0.6")
     (company "Purism SPC")
     (comment 1 "GNU GPLv3+")
   )
