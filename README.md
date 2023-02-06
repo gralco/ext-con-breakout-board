@@ -6,7 +6,7 @@ The first panels were made by PCBWay, if you would like to order these yourself 
 
 The OK-06M024-04 connector can be acquired here (cannot guarantee this URL will remain valid): https://www.yoycart.com/Product/528429082566/OK-06M024-04_OK-06M030-04_OK-06M050-04_O
 
-Here is a photo of a panel:
+Here is a photo of a v0.5 panel:
 ![Panel](./photos/panel.png)
 
 Here is a photo of the rigid-flex board mounted inside a Librem 5, using the center M.2 cover screw to fasten the rigid section down:
