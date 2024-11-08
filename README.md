@@ -6,7 +6,7 @@ The first panels were made by PCBWay, if you would like to order these yourself 
 
 The FPC connector used is either Panasonic AXT624124 or OK-06M024-04.
 
-Here is a photo of a v0.5 panel:
+Here is a photo of a v0.6 panel:
 ![Panel](./photos/panel.png)
 
 Here is a photo of the rigid-flex board mounted inside a Librem 5, using the center M.2 cover screw to fasten the rigid section down:
