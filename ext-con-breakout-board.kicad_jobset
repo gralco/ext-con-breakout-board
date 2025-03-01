@@ -1,0 +1,166 @@
+{
+  "jobs": [
+    {
+      "description": "",
+      "id": "46e9aebd-7b82-45a9-a1a1-b9beec35f274",
+      "settings": {
+        "description": "",
+        "disable_aperture_macros": false,
+        "drawing_sheet": "",
+        "include_netlist_attributes": true,
+        "layers": [
+          "F.Cu",
+          "In1.Cu",
+          "In2.Cu",
+          "In3.Cu",
+          "In4.Cu",
+          "In5.Cu",
+          "In6.Cu",
+          "In7.Cu",
+          "In8.Cu",
+          "In9.Cu",
+          "In10.Cu",
+          "In11.Cu",
+          "In12.Cu",
+          "In13.Cu",
+          "In14.Cu",
+          "In15.Cu",
+          "In16.Cu",
+          "In17.Cu",
+          "In18.Cu",
+          "In19.Cu",
+          "In20.Cu",
+          "In21.Cu",
+          "In22.Cu",
+          "In23.Cu",
+          "In24.Cu",
+          "In25.Cu",
+          "In26.Cu",
+          "In27.Cu",
+          "In28.Cu",
+          "In29.Cu",
+          "In30.Cu",
+          "B.Cu",
+          "B.Paste",
+          "F.SilkS",
+          "B.SilkS",
+          "F.Mask",
+          "B.Mask",
+          "Cmts.User",
+          "Edge.Cuts"
+        ],
+        "layers_include_on_all": [],
+        "layers_include_on_all_set": false,
+        "layers_to_include_on_all_layers": [],
+        "output_filename": "gerbers/",
+        "plot_drawing_sheet": false,
+        "plot_footprint_values": true,
+        "plot_invisible_text": false,
+        "plot_pad_numbers": false,
+        "plot_ref_des": true,
+        "precision": 5,
+        "subtract_solder_mask_from_silk": false,
+        "use_drill_origin": false,
+        "use_protel_file_extension": false,
+        "use_x2_format": true
+      },
+      "type": "pcb_export_gerbers"
+    },
+    {
+      "description": "",
+      "id": "8d8c0787-0240-4a78-bdae-c1c09adf12f8",
+      "settings": {
+        "description": "",
+        "drill_origin": "abs",
+        "excellon.combine_pth_npth": false,
+        "excellon.minimal_header": false,
+        "excellon.mirror_y": false,
+        "excellon.oval_drill_route": true,
+        "format": "excellon",
+        "generate_map": false,
+        "gerber_precision": 5,
+        "map_format": "pdf",
+        "output_dir": "gerbers/",
+        "units": "in",
+        "zero_format": "decimal"
+      },
+      "type": "pcb_export_drill"
+    },
+    {
+      "description": "",
+      "id": "80595255-5e1b-47e4-8cfa-0a2507ef020a",
+      "settings": {
+        "compression": "tgz",
+        "description": "",
+        "drawing_sheet": "",
+        "output_filename": "ext-con-breakout-board.tgz",
+        "precision": 2,
+        "units": "mm"
+      },
+      "type": "pcb_export_odb"
+    },
+    {
+      "description": "",
+      "id": "ab916cec-500a-4c90-bbd4-99c805cb44f8",
+      "settings": {
+        "black_and_white": false,
+        "color_theme": "KiCad Classic",
+        "description": "",
+        "drawing_sheet": "",
+        "format": "pdf",
+        "hpgl_page_size": "default",
+        "hpgl_pen_size": 1.016,
+        "hpgl_plot_origin": "A3",
+        "min_pen_width": 847,
+        "output_filename": "ext-con-breakout-board.pdf",
+        "page_size": "auto",
+        "pdf_hierarchical_links": true,
+        "pdf_metadata": true,
+        "pdf_property_popups": true,
+        "plot_all": true,
+        "plot_drawing_sheet": true,
+        "use_background_color": true
+      },
+      "type": "sch_export_plot_pdf"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "Gerbers & Drill",
+      "id": "cc2fb951-3102-4524-b853-a4eab9eaa8dd",
+      "only": [
+        "46e9aebd-7b82-45a9-a1a1-b9beec35f274",
+        "8d8c0787-0240-4a78-bdae-c1c09adf12f8"
+      ],
+      "settings": {
+        "output_path": "/home/ekuzmenko/ext-con-breakout-board"
+      },
+      "type": "folder"
+    },
+    {
+      "description": "ODB++",
+      "id": "4d5447b4-a753-464f-8775-318a6e7841c4",
+      "only": [
+        "80595255-5e1b-47e4-8cfa-0a2507ef020a"
+      ],
+      "settings": {
+        "output_path": "/home/ekuzmenko/ext-con-breakout-board/"
+      },
+      "type": "folder"
+    },
+    {
+      "description": "Schematic",
+      "id": "ee242666-d986-4b06-ab76-0f40433f0332",
+      "only": [
+        "ab916cec-500a-4c90-bbd4-99c805cb44f8"
+      ],
+      "settings": {
+        "output_path": "/home/ekuzmenko/ext-con-breakout-board/"
+      },
+      "type": "folder"
+    }
+  ]
+}
